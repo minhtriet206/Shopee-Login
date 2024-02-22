@@ -1,0 +1,15 @@
+@media (max-width : 415px) {
+    .wrapper-pc {
+        display: none;
+    }
+
+    body {
+        font-size: 1.4rem;
+        background-color: white;
+    }
+
+    .wrapper-phone {
+        display: block;
+    }
+
+}
